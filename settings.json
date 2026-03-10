@@ -8,7 +8,7 @@
   "server": {
     "ip": "doomsquadd.aternos.me",
     "port": 34910,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
